@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/hey-pranay/leetcode-practice/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
