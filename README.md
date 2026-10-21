@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/hey-pranay/leetcode-practice/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/hey-pranay/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
 ## Greedy
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/hey-pranay/leetcode-practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
