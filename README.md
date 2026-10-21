@@ -5,9 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/hey-pranay/leetcode-practice/tree/master/0228-summary-ranges) |
+| [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
