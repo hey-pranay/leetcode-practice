@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0888-fair-candy-swap](https://github.com/hey-pranay/leetcode-practice/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/hey-pranay/leetcode-practice/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/hey-pranay/leetcode-practice/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/hey-pranay/leetcode-practice/tree/master/0929-unique-email-addresses) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/hey-pranay/leetcode-practice/tree/master/0888-fair-candy-swap) |
+## String
+|  |
+| ------- |
+| [0929-unique-email-addresses](https://github.com/hey-pranay/leetcode-practice/tree/master/0929-unique-email-addresses) |
 <!---LeetCode Topics End-->
