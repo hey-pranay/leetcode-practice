@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/hey-pranay/leetcode-practice/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/hey-pranay/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/hey-pranay/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/hey-pranay/leetcode-practice/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/hey-pranay/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/hey-pranay/leetcode-practice/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
