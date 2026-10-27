@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/hey-pranay/leetcode-practice/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/hey-pranay/leetcode-practice/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/hey-pranay/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/hey-pranay/leetcode-practice/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/hey-pranay/leetcode-practice/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/hey-pranay/leetcode-practice/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/hey-pranay/leetcode-practice/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
